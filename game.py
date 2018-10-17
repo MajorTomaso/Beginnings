@@ -197,6 +197,11 @@ def menu(exits):
        
             # If so, return the player's choice
             return a
+        else:
+            print()
+            print("Sorry, I don't understand!")
+            print("Give me a direction!")
+            print()
     
 
 
